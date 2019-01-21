@@ -14,3 +14,6 @@
 [submodule "modules/volume-control/qml/plasma-pa"]
 	path = modules/volume-control/qml/plasma-pa
 	url = https://github.com/KDE/plasma-pa.git
+[submodule "modules/navigation/navit"]
+	path = modules/navigation/navit
+	url = https://github.com/navit-gps/navit.git
